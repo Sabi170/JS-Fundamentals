@@ -1,1 +1,1 @@
-Print javascript is amazing
+JS Fundamentals
